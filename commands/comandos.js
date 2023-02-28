@@ -6,6 +6,7 @@ const exampleEmbed = new EmbedBuilder()
 	.addFields(
 		{ name: '/pong', value: 'Response com Pong!'},
 		{ name: '/comandos', value: 'Lista de comandos' },
+		{ name: '/quimerda', value: 'Entra na call e fala "KI MERDA CARA KI MERDA"' },
 	)
 
 module.exports = {
